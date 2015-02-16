@@ -1,0 +1,2 @@
+serviceClass: cloud.assignment.client.GreetingService
+path: 8F31FDB607A775839741AA548067149E.gwt.rpc
